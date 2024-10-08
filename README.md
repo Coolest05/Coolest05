@@ -1,5 +1,5 @@
-<h3 align="center">Hi 👋, I'm Segun Ajakaiye</h3>
-<h10 align="center">Data Analyst | Data Engineer | Software Developer I’m passionate about working with data and software to solve complex problems. Whether it's building data pipelines, analyzing datasets, or developing scalable software solutions, I love using technology to create meaningful insights and drive business success. With experience in data analysis, data engineering, and software development, I thrive on combining these fields to deliver impactful results.</h10>
+<h3 align="left">Hi 👋, I'm Segun Ajakaiye</h3>
+<h10 align="left">Data Analyst | Data Engineer | Software Developer I’m passionate about working with data and software to solve complex problems. Whether it's building data pipelines, analyzing datasets, or developing scalable software solutions, I love using technology to create meaningful insights and drive business success. With experience in data analysis, data engineering, and software development, I thrive on combining these fields to deliver impactful results.</h10>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coolest05&label=Profile%20views&color=0e75b6&style=flat" alt="coolest05" /> </p>
 
